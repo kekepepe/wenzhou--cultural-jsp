@@ -35,8 +35,8 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item"><a class="nav-link active" href="index.jsp">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Food</a></li>
+                        <li class="nav-item"><a class="nav-link" href="index.jsp">Home</a></li>
+                        <li class="nav-item"><a class="nav-link active" href="food">Food</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">Scenery</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">Culture</a></li>
                         <% if (session.getAttribute("user")==null) { %>
