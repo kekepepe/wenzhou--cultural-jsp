@@ -43,13 +43,3 @@ This project is a cultural tourism platform designed to showcase the beauty of W
 3. Add the project artifact to the Tomcat deployment.
 4. Start the server and visit `http://localhost:8080/wenzhou--cultural-jsp/` (port and context path may vary).
 
-## 👥 Group Contribution
-
-| Member Name | Tasks Assigned | Contribution % |
-| :--- | :--- | :--- |
-| **Member 1** | Feature A, Feature B | 25% |
-| **Member 2** | Feature C, Database | 25% |
-| **Member 3** | Frontend, UI Design | 25% |
-| **Member 4** | Testing, Documentation | 25% |
-
-> *Note: Please update the table above with actual team members and their specific contributions.*
