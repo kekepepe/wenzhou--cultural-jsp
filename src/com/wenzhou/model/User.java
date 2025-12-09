@@ -12,6 +12,7 @@ public class User implements Serializable {
     private String address;
     private Integer isAdmin; // 0=User, 1=Admin
 
+
     public User() {
     }
 
